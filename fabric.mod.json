@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "tce",
+  "version": "1.1+26.1.2",
+  "name": "The Car Engine (TCE) Unofficial Port",
+  "description": "The Car Engine (TCE) Unofficial port for newer versions",
+  "authors": ["The Car Engine, unofficially ported by ArnavMC"],
+  "environment": "*",
+  "depends": {
+    "fabricloader": "*",
+    "minecraft": "26.1.2"
+  }
+}

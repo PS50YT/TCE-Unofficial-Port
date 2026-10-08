@@ -1,0 +1,9 @@
+
+modLoader = 'lowcodefml'
+loaderVersion = '[40,)'
+license = 'MIT'
+showAsResourcePack = false
+mods = [
+	{ modId = 'mr_tce', version = '1.1+26.1.2', displayName = 'The Car Engine (TCE) Unofficial Port', description = 'The Car Engine (TCE) Unofficial port for newer versions', logoFile = 'tce_pack.png', updateJSONURL = '', credits = '', authors = '', displayURL = 'https://modrinth.com/mod/tce-unofficial-port' },
+]
+issueTrackerURL = 'https://modrinth.com/mod/tce-unofficial-port'
